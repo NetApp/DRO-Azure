@@ -1,0 +1,56 @@
+LICENSE AGREEMENT FOR NETAPP, INC. TOOLS 
+
+ 
+
+This License Agreement (“Agreement”) is a legal agreement between You as an authorized representative of a business entity (hereafter referred to as “You” and/or “Your”), and NetApp, Inc. (“NetApp”).  If you are agreeing to these terms as a representative of an entity, you represent that you have the authority to bind that entity and “You” refers to that entity. NetApp is willing to license to You the NetApp software product accompanying this Agreement (the “Software”).  By downloading, installing and/or using the Software You acknowledge that You have reviewed and accept this Agreement, and that You agree to be bound by all of its terms.  If You do not agree with all of these terms, You must promptly return the Software to NetApp.  
+
+ 
+
+1. 	License Grant.  Subject to the limitations and restrictions set forth herein, NetApp and its licensors grant to You a non-exclusive, non-transferable, worldwide, limited, royalty-free license, without right of sublicense, to install and use the Software solely for the purpose of internal use (“Purpose”).  Use of the Software outside the scope of this Agreement and the Purpose is unauthorized, shall constitute a material breach of this Agreement, and shall not convey any additional rights to You.  The Software is licensed, not sold, to You.  
+
+ 
+2.	License Restrictions.  
+
+  
+
+2.1	Standard Use Restrictions.  Subject to the Purpose, You shall not: (a) reverse engineer any components used in the Software by any means whatever; (b) remove or conceal any product identification, copyright, patent or other notices contained in or on the Software; (c) sell, lease, rent, lend, sublicense, distribute or otherwise transfer in whole or in part the Software or the applicable license enablement key to another party or to a different storage controller or cluster; or (d) modify the Software, incorporate it into or with other software, or create a derivative work of any part of the Software.  You acknowledge that the Software is not designed, licensed or intended for use in the design, construction, operation or maintenance of any nuclear facility, aircraft operation, air traffic control or life support system.  NetApp disclaims any express or implied warranty of fitness for such uses.   
+
+ 
+
+2.2 	Support. NetApp and its licensors are under no obligation to support the Software or to provide You with updates. If NetApp, at its sole option, supplies updates to You, the updates will be considered part of the Software and subject to the terms of this Agreement. 
+
+  
+
+3.	Intellectual Property Rights.  The Software is protected by copyright and other intellectual property laws and treaties worldwide, and may contain trade secrets of NetApp or its licensors, who have and maintain exclusive right, title and interest in and to the Software, and reserve and retain all rights not expressly granted to You herein.  No right, title or interest in or to any trademark, service mark, logo or trade name of NetApp or its licensors is granted under this Agreement.  All right, title and interest in and to all software and content which is not contained in the Software, but may be accessed or used through use of the Software, is the product belonging to the respective content owner and may be protected by patents, copyrights and other intellectual property laws and treaties worldwide.  This Agreement grants You no rights to such content, but use of such content may be governed by the respective terms and conditions of use relating to such content. 
+
+ 
+
+4.	Termination.  This Agreement is effective until terminated.  NetApp may terminate this Agreement immediately and without notice if You fail to comply with any term of this Agreement.  Termination of this Agreement shall not relieve You from Your obligations to immediately pay NetApp any sums owed hereunder or under any other agreement with NetApp.  Upon termination, all rights to use the Software will cease, and You shall promptly destroy the original and all copies of the Software and any applicable license enablement keys in Your possession or under Your control.  Termination is not an exclusive remedy and all other remedies otherwise entitled by law shall remain.  Sections 2 through 9 shall survive termination of this Agreement. 
+
+ 
+
+5.	Disclaimer of Warranty.  THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND. ALL EXPRESS AND IMPLIED CONDITIONS, REPRESENTATIONS, AND WARRANTIES, INCLUDING, ANY IMPLIED WARRANTY OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ANY WARRANTY OF NONINFRINGEMENT, OR ANY WARRANTY THAT THE SOFTWARE IS ERROR-FREE ARE HEREBY DISCLAIMED, EXCEPT TO THE EXTENT THAT SUCH DISCLAIMERS ARE HELD TO BE LEGALLY INVALID.   
+
+ 
+
+6.	Limitation of Liability.  THE TOTAL LIABILITY OF NETAPP AND ITS LICENSORS, FOR ANY DAMAGE OR CLAIM ARISING FROM USE OF THE SOFTWARE SHALL NOT EXCEED THE AMOUNT ACTUALLY PAID BY YOU FOR THE SOFTWARE OR US$100.00, WHICHEVER IS GREATER.  NETAPP AND ITS LICENSORS, ARE NOT LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, EXEMPLARY, SPECIAL, OR CONSEQUENTIAL DAMAGES; LOST OR CORRUPTED DATA, LOSS OF PROFITS, SAVINGS, OR REVENUES; PROCUREMENT OF SUBSTITUTE GOODS, INTERRUPTION OF BUSINESS, OR FOR ANY OCCURRENCE BEYOND THEIR CONTROL, RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE AND/OR ANY RELATED CONTENT ACCESSIBLE VIA THE SOFTWARE, THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT OR OTHER SERVICES, OR OTHERWISE IN CONNECTION WITH ANY PROVISION OF THIS AGREEMENT.  IN NO EVENT SHALL NETAPP’S LICENSORS BE LIABLE FOR ANY DAMAGES OF ANY KIND INCLUDING DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES (WHICH SHALL INCLUDE WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS OR PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) WHETHER BASED ON CONTRACT, TORT OR OTHER LEGAL THEORY, ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+ 
+
+7.	Export Regulations.  The Software is subject to U.S. export control laws and may be subject to export or import regulations in other countries.  You agree to comply with all applicable regulations and obtain any applicable licenses or other authorizations to export, re-export, or import the Software. 
+
+ 
+
+8.	Third Party Software.  
+
+  
+
+8.1	Agreement.  The Software may include or be distributed with software licensed under the terms of free, copyleft and open source software licenses (“Open Source Software”) and software licensed by third parties (collectively referred to as “Third Party Software”) that are licensed under separate software license terms.  All such Third Party Software is distributed to You under the terms of the applicable Third Party Software license(s).   NetApp provides all Third Party Software and Open Source Software to You “AS IS” without any warranties or indemnities of any kind. You agree to comply with the terms of all such applicable Open Source Software licenses. 
+
+ 
+
+8.2	Copyright notices and licensing terms and conditions applicable to the Third Party Software and other Open Source software are available for review with the Software documentation at http://now.netapp.com and are included in Your download or on the media on which You received the Software.  This information may be found within a “NOTICES” file (e.g., NOTICES.pdf or NOTICES.txt), included within the downloaded files, and/or reproduced within the materials or Documentation accompanying the Software.  
+
+ 
+
+9.	General.  You may not transfer Your rights under this Agreement without NetApp’s prior written approval.  NetApp does not waive any of its rights under this Agreement by delaying to exercise its rights, or exercising only part of its rights at any time. Any notice, report, approval or consent required or permitted by this Agreement shall be in writing.  If any provision of this Agreement shall be adjudged by any court of competent jurisdiction to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that the obligations of the parties shall remain in full force and effect and enforceable.  This Agreement shall be deemed to have been made in, and shall be construed pursuant to, the laws of the State of California, United States, excluding its conflicts of law provisions.  The United Nations Convention on Contracts for the International Sales of Goods is specifically disclaimed.  You acknowledge that breach of this Agreement would cause irreparable injury to NetApp for which monetary damages would not be an adequate remedy and You agree that NetApp shall be entitled to seek equitable relief in addition to any remedies it may have hereunder or at law. You acknowledge and agree that NetApp reserves the right to control all aspects of any lawsuit or claim that arises or results from Your use of the Software.  Any amendments or waivers shall be effective only if made in writing by non-preprinted agreements clearly understood by both parties to be an amendment or waiver and signed by an authorized representative of each party.  This Agreement is the final and complete agreement between the parties relating to the license of the Software hereunder and prevails over any conflicting or additional terms of any quote, order, acknowledgment, or similar communication between the parties.  
