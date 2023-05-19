@@ -42,6 +42,29 @@ DRO leverages NetApp's SnapMirror replication-based approach for a powerful and 
 **Username:** admin
 **Password:** admin
 
+## Minor Version Update
+
+1. Download the installation package on the designated virtual machine:
+
+``` git clone https://github.com/NetApp-Automation/DRO-Azure.git ```
+
+2. Unzip the package and navigate into the unziped folder:
+
+``` cd DRO-Azure ```
+
+``` tar -xf DRO-prereq.tar ```
+
+``` cd dro_package ```
+
+3. Run the update script and enter your host IP (for example: 10.10.10.10):
+
+``` sudo sh update_azure.sh ```
+
+4. Once the script runs successfully, access the UI using below credentials:
+
+**Username:** admin
+**Password:** admin
+
 ## Troubleshooting Steps
 
 1. If you encounter an error during initial installation, run the uninstallation script before retrying the installation again to cleanup any residual data. 
