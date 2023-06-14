@@ -91,7 +91,7 @@ The DRO Setup comes with a default connector installed on the VM where the insta
 
 ``` cd dro_package ```
 
-3. Run the deployment script and enter your host IP (for example: 10.10.10.10):
+3. Run the deployment script and enter the host IP for the primary host where DRO is installed and the secondary host where the connector is being installed (for example: 10.10.10.10):
 
 ``` sudo sh connector_install.sh ```
 
