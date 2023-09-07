@@ -23,7 +23,7 @@ DRO leverages NetApp's SnapMirror replication-based approach for a powerful and 
 
 1. Download the installation package on the designated virtual machine:
 
-``` git clone https://github.com/NetApp-Automation/DRO-Azure.git ```
+``` git clone https://github.com/NetApp/DRO-Azure.git ```
 
 2. Unzip the package and navigate into the unziped folder:
 
@@ -46,7 +46,7 @@ DRO leverages NetApp's SnapMirror replication-based approach for a powerful and 
 
 1. Download the installation package on the designated virtual machine:
 
-``` git clone https://github.com/NetApp-Automation/DRO-Azure.git ```
+``` git clone https://github.com/NetApp/DRO-Azure.git ```
 
 2. Unzip the package and navigate into the unziped folder:
 
@@ -81,7 +81,7 @@ The DRO Setup comes with a default connector installed on the VM where the insta
 
 1. Download the installation package on the designated virtual machine:
    
-``` git clone https://github.com/NetApp-Automation/DRO-Azure.git ```
+``` git clone https://github.com/NetApp/DRO-Azure.git ```
 
 2. Unzip the package and navigate into the unziped folder:
    
@@ -102,7 +102,7 @@ The DRO Setup comes with a default connector installed on the VM where the insta
 
 1. Download the installation package on the designated virtual machine:
    
-``` git clone https://github.com/NetApp-Automation/DRO-Azure.git ```
+``` git clone https://github.com/NetApp/DRO-Azure.git ```
 
 2. Unzip the package and navigate into the unziped folder:
    
